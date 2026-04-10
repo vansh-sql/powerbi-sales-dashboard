@@ -17,4 +17,4 @@ using real-world style computer hardware sales data.
 Power BI Desktop | DAX | Data Modeling
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+[![Dashboard](screenshots/dashboard.png](https://github.com/vansh-sql/powerbi-sales-dashboard/blob/main/dashboard.png))
