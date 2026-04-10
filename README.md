@@ -1,4 +1,5 @@
 # Power BI Sales Dashboard (2022–2023)
+![Sales Dashboard](dashboard.png)
 
 A sales performance dashboard built in Power BI 
 using real-world style computer hardware sales data.
