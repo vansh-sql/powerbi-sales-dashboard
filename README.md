@@ -15,6 +15,3 @@ using real-world style computer hardware sales data.
 
 ## Tools
 Power BI Desktop | DAX | Data Modeling
-
-## Dashboard Preview
- dashboard.png
