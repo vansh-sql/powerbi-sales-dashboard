@@ -10,6 +10,7 @@ using real-world style computer hardware sales data.
 - Bar Chart — Quantity by Category
 - Map Visual — Sales by Indian State
 - Pie Chart — Brand-wise Sales split
+- New Slicer 
 
 ## DAX Used
 - SUMX for row-level Sales and Cost calculation
